@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "first_name": "Dianemarie",
+        "last_name": "Knappe",
+        "email": "dknappe0@dmoz.org",
+        "gender": "Female",
+        "job_title": "Registered Nurse"
+    },
+    {
+        "id": 2,
+        "first_name": "Martie",
+        "last_name": "Kybert",
+        "email": "mkybert1@xrea.com",
+        "gender": "Female",
+        "job_title": "Media Manager I"
+    },
+    {
+        "id": 3,
+        "first_name": "Dorthy",
+        "last_name": "Fitzroy",
+        "email": "dfitzroy2@oracle.com",
+        "gender": "Female",
+        "job_title": "Operator"
+    },
+    {
+        "id": 4,
+        "first_name": "Mandi",
+        "last_name": "McMains",
+        "email": "mmcmains3@aboutads.info",
+        "gender": "Female",
+        "job_title": "Web Designer III"
+    },
+    {
+        "id": 5,
+        "first_name": "Glen",
+        "last_name": "Tripe",
+        "email": "gtripe4@furl.net",
+        "gender": "Male",
+        "job_title": "Senior Sales Associate"
+    },
+    {
+        "id": 6,
+        "first_name": "Devondra",
+        "last_name": "Benesevich",
+        "email": "dbenesevich5@dyndns.org",
+        "gender": "Bigender",
+        "job_title": "Associate Professor"
+    },
+    {
+        "id": 7,
+        "first_name": "Archibold",
+        "last_name": "Chaster",
+        "email": "achaster6@lulu.com",
+        "gender": "Male",
+        "job_title": "Office Assistant I"
+    },
+    {
+        "id": 8,
+        "first_name": "Sib",
+        "last_name": "Chipping",
+        "email": "schipping7@goo.gl",
+        "gender": "Female",
+        "job_title": "Research Nurse"
+    },
+    {
+        "id": 9,
+        "first_name": "Bel",
+        "last_name": "Haug",
+        "email": "bhaug8@shareasale.com",
+        "gender": "Female",
+        "job_title": "Sales Representative"
+    },
+    {
+        "id": 10,
+        "first_name": "Nariko",
+        "last_name": "Peek",
+        "email": "npeek9@upenn.edu",
+        "gender": "Female",
+        "job_title": "Clinical Specialist"
+    },
+    {
+        "id": 11,
+        "first_name": "Ailyn",
+        "last_name": "Buttery",
+        "email": "abutterya@bravesites.com",
+        "gender": "Female",
+        "job_title": "Analyst Programmer"
+    },
+    {
+        "id": 12,
+        "first_name": "Charmain",
+        "last_name": "Kindon",
+        "email": "ckindonb@earthlink.net",
+        "gender": "Female",
+        "job_title": "Nuclear Power Engineer"
+    },
+    {
+        "id": 13,
+        "first_name": "Gordan",
+        "last_name": "Gummow",
+        "email": "ggummowc@dot.gov",
+        "gender": "Male",
+        "job_title": "Senior Quality Engineer"
+    },
+    {
+        "id": 14,
+        "first_name": "Ursala",
+        "last_name": "Colwill",
+        "email": "ucolwilld@jimdo.com",
+        "gender": "Female",
+        "job_title": "Budget/Accounting Analyst III"
+    },
+    {
+        "id": 15,
+        "first_name": "Constantin",
+        "last_name": "Checchi",
+        "email": "cchecchie@bluehost.com",
+        "gender": "Male",
+        "job_title": "Quality Engineer"
+    },
+    {
+        "id": 16,
+        "first_name": "Renie",
+        "last_name": "Tesdale",
+        "email": "rtesdalef@desdev.cn",
+        "gender": "Female",
+        "job_title": "Professor"
+    },
+    {
+        "id": 17,
+        "first_name": "Isa",
+        "last_name": "Hamor",
+        "email": "ihamorg@jugem.jp",
+        "gender": "Female",
+        "job_title": "Safety Technician III"
+    },
+    {
+        "id": 18,
+        "first_name": "Adara",
+        "last_name": "Matteucci",
+        "email": "amatteuccih@admin.ch",
+        "gender": "Female",
+        "job_title": "Financial Analyst"
+    },
+    {
+        "id": 19,
+        "first_name": "Andra",
+        "last_name": "Collicott",
+        "email": "acollicotti@tripod.com",
+        "gender": "Female",
+        "job_title": "Database Administrator IV"
+    },
+    {
+        "id": 20,
+        "first_name": "Alie",
+        "last_name": "Fryatt",
+        "email": "afryattj@github.com",
+        "gender": "Female",
+        "job_title": "Editor"
+    }
+]
